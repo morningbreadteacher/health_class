@@ -5,7 +5,7 @@
 
 | 차수 | 수업 | 자료 | 접속 |
 | --- | --- | --- | --- |
-| 1 | 응급처치 수업 | [수업 안내](./1_응급처치수업/README.md) | [게임 실행](https://morningbreadteacher.github.io/health_class/1_%EC%9D%91%EA%B8%89%EC%B2%98%EC%B9%98%EC%88%98%EC%97%85/%EC%88%98%EC%97%85%EC%9E%90%EB%A3%8C/%EC%9D%91%EA%B8%89%EC%B2%98%EC%B9%98%EA%B2%8C%EC%9E%84.html) |
+| 1 | 응급처치 수업 | [수업 안내](./1_응급처치수업/README.md) | [게임 실행](https://morningbreadteacher.github.io/health_class/1_%EC%9D%91%EA%B8%89%EC%B2%98%EC%B9%98%EC%88%98%EC%97%85/%EC%88%98%EC%97%85%EC%9E%90%EB%A3%8C/%EC%9D%91%EA%B8%89%EC%B2%98%EC%B9%98%EA%B2%8C%EC%9E%84_%EB%A1%9C%EC%BB%AC%EC%8B%A4%ED%96%89%EC%9A%A9.html) |
 
 이 README는 전체 저장소 안내입니다. 수업별 설명은 각 폴더의 README.md를 확인하세요.
 기존 mia 저장소의 커밋 기록을 유지하고 있으며, 브랜치는 main입니다.
