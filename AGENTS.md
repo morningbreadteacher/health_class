@@ -8,7 +8,7 @@
 - The user has authorized committing updates to main and pushing to origin for the existing GitHub Pages site. Preserve unrelated work and remote history.
 
 - Repository: https://github.com/morningbreadteacher/health_class.git (origin). Keep the original mia remote as previous-origin for reference; do not push updates there unless asked.
-- Organize lessons in their own folders. In 1_응급처치수업/, keep only README.md, one 응급처치수업.url shortcut, and the 수업자료/ directory. Store the HTML, assets, answer sheet, and image notes inside 수업자료/.
+- Organize lessons in their own folders. In 1_응급처치수업/, keep only README.md, one 응급처치수업_온라인접속.url shortcut, and the 수업자료/ directory. Store the HTML, assets, answer sheet, and image notes inside 수업자료/.
 - Keep the root free of HTML, shortcuts, archives, and other lesson artifacts. Only Git metadata, Markdown documents, and lesson folders belong at the root. The root README.md describes the entire repository; each lesson folder has its own README.md.
 - Do not create a lesson-directory HTML page. Use the root README.md for the lesson listing. Keep the lesson README.md version synchronized with its game.
 
