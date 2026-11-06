@@ -9,7 +9,8 @@
 
 - Repository: https://github.com/morningbreadteacher/health_class.git (origin). Keep the original mia remote as previous-origin for reference; do not push updates there unless asked.
 - Organize lessons in their own folders. The emergency first aid lesson is in 1_응급처치수업/. Its 정답지.txt and assets/ live alongside its index.html.
-- The root index.html is the lesson directory. Add a link there when introducing a new lesson folder. Keep its visible version synchronized with the current release.
+- Keep the root free of HTML, shortcuts, archives, and other lesson artifacts. Only Git metadata, Markdown documents, and lesson folders belong at the root. The root README.md describes the entire repository; each lesson folder has its own README.md.
+- The former root lesson directory is preserved as 1_응급처치수업/수업목록.html. Keep its links relative to that folder. Synchronize lesson version references in its README.md and preserved directory page when updating the lesson.
 
 - For all future commits in this repository, use author and committer morningbreadteacher with 353308911+morningbreadteacher@users.noreply.github.com. Do not rewrite historical commits.
 - Keep Windows Internet shortcuts (.url) synchronized with published lesson URLs.
