@@ -8,9 +8,12 @@
 - The user has authorized committing updates to main and pushing to origin for the existing GitHub Pages site. Preserve unrelated work and remote history.
 
 - Repository: https://github.com/morningbreadteacher/health_class.git (origin). Keep the original mia remote as previous-origin for reference; do not push updates there unless asked.
-- Organize lessons in their own folders. In 1_응급처치수업/, keep only README.md, one 응급처치수업_온라인접속.url shortcut, and the 수업자료/ directory. Store the HTML, assets, answer sheet, and image notes inside 수업자료/.
-- Keep the root free of HTML, shortcuts, archives, and other lesson artifacts. Only Git metadata, Markdown documents, and lesson folders belong at the root. The root README.md describes the entire repository; each lesson folder has its own README.md.
-- Do not create a lesson-directory HTML page. Use the root README.md for the lesson listing. Keep the lesson README.md version synchronized with its game.
+- Organize lessons in their own folders. In 1_응급처치수업/, keep only 공개안내.md, one 응급처치수업_온라인접속.url shortcut, and the 수업자료/ directory. Store the HTML, assets, answer sheet, and image notes inside 수업자료/.
+- Keep the root free of HTML, shortcuts, archives, and other lesson artifacts. Only Git metadata, Markdown documents, and lesson folders belong at the root. The root 공개안내.md describes the entire repository; each lesson folder has its own 공개안내.md.
+- Do not create a lesson-directory HTML page. Use the root 공개안내.md for the lesson listing. Keep the lesson 공개안내.md version synchronized with its game.
 
 - For all future commits in this repository, use author and committer morningbreadteacher with 353308911+morningbreadteacher@users.noreply.github.com. Do not rewrite historical commits.
 - Keep Windows Internet shortcuts (.url) synchronized with published lesson URLs.
+
+- Keep both root and lesson 공개안내.md limited to visitor-facing information: introduction, game link, usage, storage behavior, and credits. Do not list answer-sheet paths, internal file structures, production notes, or Git history there.
+- Renaming Markdown files does not restrict access on GitHub Pages; never describe it as a privacy measure. All committed content remains visible in the public repository.
